@@ -1,0 +1,30 @@
+body{
+  background-image:url("../img/achtergrond_forum.jpg");
+}
+.menu{
+  font-size: 250%;
+  text-align: center;
+  background-color:#4ecdf4;
+  opacity: .9;
+  text-decoration:none;
+  border-right: 10px;
+
+
+}
+a {
+  text-decoration:none;
+  /*padding: 10px; */
+  margin: 10px
+}
+img{
+  width: 100%;
+  height: 100%;
+}
+.DELogoDiv{
+  background-color:		#FFFFFF	;
+  opacity: .6;
+  }
+  .deLogoText{
+
+    top: 10px;
+  }
