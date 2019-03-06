@@ -62,10 +62,25 @@ img{
 .eersteblok{
   background-color: #0047b3;
   opacity: .9;
-  margin-top: 2vw;
+  margin-top: 1.5vw;
   margin-left: 4%;
   margin-right: 2%;
   color: white;
   font-family: 'Quicksand', sans-serif;
-  padding:1vw;
+  padding:0.1vw;
+}
+.WitteBlok{
+  background-color: white;
+  opacity: .9;
+  margin-left: 4%;
+  padding: 1vw;
+  margin-top: 1.5vw;
+  margin-right: 2%;
+}
+.leegDivBeneden{
+  background-color: #4ecdf4;
+  opacity: .5;
+  height: 100px;
+  margin-top: 1vw;;
+  width: 100%;
 }
